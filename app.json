@@ -1,0 +1,11 @@
+{
+    "name": "embed-v1/discord-bot",
+    "description": "Bot for creating embed in discord server.",
+    "repository": "https://github.com/cq2x/EmbedV1-DiscordBot",
+    "keywords": [
+      "python",
+      "discord",
+      "bot"
+    ]
+  }
+  
