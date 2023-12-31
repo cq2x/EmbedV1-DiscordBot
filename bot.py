@@ -1,6 +1,6 @@
 """
-VERSION: 1.0.1
-CODE LAST EDITED: 10/11/23
+VERSION: 1.0.0
+CODE LAST EDITED: 31/12/23
 CODE CREATE BY: https://discord.com/users/973615253814378526 (DISCORD)
 """
 from typing import Optional, Union
