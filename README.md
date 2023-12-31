@@ -19,7 +19,7 @@
 
 ## รันบอท
 
-[![Run on Repl.it](https://replit.com/badge/github/cq2x/EmbedV1-DiscordBot)](https://replit.com/new/github.com/cq2x/EmbedV1-DiscordBot)
+[![Run on Repl.it](https://replit.com/badge/github/cq2x/EmbedV1-DiscordBot)](https://replit.com/new/github/cq2x/EmbedV1-DiscordBot)
 
 หลังจากได้รันบอทบน **Repl.it** เปิดเว็บ [Uptimerobot](https://uptimerobot.com/) และป้อน https:// ... .repl.co เพื่อทำให้บอทไม่หยุดทำงาน
 
