@@ -17,7 +17,7 @@
 บอทสำหรับการสร้างเอ็มเบ็ดเวอร์ชั่น 1.0.0
 
 
-## ทดสอบบอท
+## ทดสอบรันบอทบน **Replit**
 
 [![Run on Repl.it](https://replit.com/badge/github/cq2x/EmbedV1-DiscordBot)](https://replit.com/new/github/cq2x/EmbedV1-DiscordBot)
 
